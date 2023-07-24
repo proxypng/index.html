@@ -30,7 +30,7 @@ p, h1, span {
 
 .header .container {
     background: linear-gradient(180deg, #242B33 8.33%, rgba(217, 217, 217, 0) 59.9%, #242B33 94.27%), 
-    url(../../home/img/head_bg.jpg);
+    url(myapp/pages/home/img/head_bg.jpg);
     background-size: cover;
     height: 100vh;
     background-repeat: no-repeat;
@@ -588,7 +588,7 @@ p, h1, span {
 }
 
 .where-are-we .container {
-    background-image: url(../../../home/img/divan.png);
+    background-image: url(myapp/pages/home/img/divan.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
